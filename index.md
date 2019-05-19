@@ -1,5 +1,6 @@
 @import "resume.less"
 <head>
+    <title>个人简历</title>
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans+SC|Source+Code+Pro:500&display=swap&subset=chinese-simplified" rel="stylesheet">
     <link href="https://cdn.bootcss.com/font-awesome/5.8.2/css/all.min.css" rel="stylesheet" >
 </head>
