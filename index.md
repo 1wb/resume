@@ -64,7 +64,7 @@ export_on_save:
         3. 通过WSDL生成Web Service客户端，解析xml报文等；
         4. 开发了资源数据上传的接口，通过JWS实现基于SOAP的Web Service服务端。
 ### <i class="fas fa-code"></i> 技术清单
-<i class="fas fa-coffee"></i> **Java** 熟悉Java基础，有J.U.C多线程使用经验，了解JVM，JMM，GC基础
+<i class="fas fa-coffee"></i> **Java** 熟悉Java基础，有J.U.C多线程使用经验，了解JVM，JMM，GC基础；
 <i class="fas fa-leaf"></i> **框架** SpringMVC，Spring，MyBatis，SpringBoot，Dubbo等；
 <i class="fas fa-database"></i> **数据库** MySQL，Redis，Oracle，MongoDB，Memcached等；
 <i class="fas fa-server"></i> **服务器** Linux，Tomcat，Nginx，Zookeeper，Docker等；
