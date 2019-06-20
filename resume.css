@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC|Source+Code+Pro:500&display=swap&subset=chinese-simplified');
+
+.markdown-preview.markdown-preview,h1, h2, h3, h4, h5, h6, pre, code {
+    font-family: 'Source Code Pro','Noto Sans SC', monospace, sans-serif;  
+}
+i {
+    min-width: 20px;
+    text-align: center;
+}
+.titleEng {
+    font-size: 20px;
+}
